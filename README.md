@@ -1,2 +1,13 @@
-# fullstack-MYportfolio-html-css
-💼 Personal portfolio website built using HTML and CSS. Showcases my skills, education, internship, and experience as a Full Stack Developer.
+# Full Stack Developer Portfolio
+This is my personal portfolio website built using only HTML and CSS. It highlights my profile, skills, education, internship experience, and other important details.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (Flexbox, Animations)
+
+## 📌 Features
+- Responsive layout
+- Clean and modern design
+- About Me section
+- Education & Internship section
+- Contact Info
